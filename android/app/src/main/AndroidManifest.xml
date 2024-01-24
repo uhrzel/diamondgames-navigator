@@ -3,7 +3,7 @@
    <application
         android:label="diamond"
         android:name="${applicationName}"
-        android:icon="@mipmap/icon">
+        android:icon="@mipmap/icon1">
         <activity
             android:name=".MainActivity"
             android:exported="true"
