@@ -1,4 +1,4 @@
-package com.example.diamond
+package com.prodias1.game
 
 import io.flutter.embedding.android.FlutterActivity
 
